@@ -1,0 +1,13 @@
+p {
+    color: white;
+}
+
+#header {
+    font-size: 35px;
+    line-height: 5px;
+    font-weight: bold;
+}
+
+body {
+    background: black;
+}
